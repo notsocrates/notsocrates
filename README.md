@@ -1,16 +1,24 @@
-### Hi there 👋
+# Hey there! I'm socrates! 👋
+I'm a passionate self-taught computer programmer who enjoys entrepreneurship, sports, and a well versed challenge.
 
-<!--
-**notsocrates/notsocrates** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I've ran many entrepreneurship projects in the field of web-scraping, automation and pen-testing.
 
-Here are some ideas to get you started:
+## **Current Projects**
+- [Ares Development](https://aresmonitors.com/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## **Coding Languages**
+- Python
+- NodeJS
+
+## **Technologies**
+- Express
+- Flask
+- Selenium
+- MySQL
+
+## **Cloud Platforms**
+- Google Cloud Platform
+- Digital Ocean
+
+## **Contact Information**
+- Discord: socrates#3874
