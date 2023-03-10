@@ -3,7 +3,7 @@ I'm a passionate self-taught computer programmer who enjoys entrepreneurship, sp
 
 I've also ran many entrepreneurship projects in the field of web-scraping, automation and pen-testing.
 
-I'm also opening to free-lancing, contact me over at discord
+I'm also opening to free-lancing, project overview and designing databases, frontends, or backends. Contact me for more information.
 
 ## **Current Projects**
 - [Ares Development](https://aresmonitors.com/)
